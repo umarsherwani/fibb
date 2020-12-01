@@ -7,6 +7,7 @@ if number==0:
 elif number==1:
     print('1 is a number')
 else:
+    print("fibb series")
     while count<number:
         nth = f1+f2
         f1 =f2
